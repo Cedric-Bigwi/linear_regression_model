@@ -10,7 +10,7 @@ World Bank World Development Indicators (the air passenger data comes from ICAO)
 - WDI: https://databank.worldbank.org/source/world-development-indicators
 - Country classification: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
 
-The data files are not stored in this repository. `summative/linear_regression/multivariate.ipynb` explains how to download them.
+
 
 ## Swagger UI (API)
 
