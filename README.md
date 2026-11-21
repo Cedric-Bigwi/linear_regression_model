@@ -1,6 +1,7 @@
 # Air Demand Gap Finder
 
 **Mission:** Help airlines, airport authorities and investors see where air travel in Africa is under-served compared with what a country's economy can support, so new routes, airports and jobs go where people need them most.
+
 **Problem:** Predict how many air passengers a country should carry in a year from its economic and social indicators. A big gap between the prediction and the real number marks a market worth investigating.
 
 ## Dataset
@@ -9,7 +10,7 @@ World Bank World Development Indicators (the air passenger data comes from ICAO)
 - WDI: https://databank.worldbank.org/source/world-development-indicators
 - Country classification: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519
 
-The data files are not stored in this repository. `summative/linear_regression/multivariate.ipynb` explains how to download them.
+
 
 ## Swagger UI (API)
 
@@ -19,14 +20,5 @@ The free Render service sleeps after 15 minutes, so the first request can take u
 
 ## YouTube video demo
 
-https://www.youtube.com/watch?v=REPLACE_WITH_YOUR_VIDEO_ID
+(https://youtu.be/y4hUme_Wk8U)
 
-## Run the mobile app
-
-1. Install Flutter (https://docs.flutter.dev/get-started/install) and Android Studio with an Android emulator, or use a phone with USB debugging.
-2. Clone this repository and open a terminal in `summative/FlutterApp`.
-3. Run `flutter doctor` to check your setup, then `flutter pub get`.
-4. Start an Android emulator (or connect your phone) and check it appears with `flutter devices`.
-5. Run `flutter run`. The app already points to the Render API.
-6. Fill in all nine fields and tap **Predict** to see the expected passengers per year.
-7. If you leave a field empty, type text in a number field or enter a value out of range, the app shows an error message instead.
