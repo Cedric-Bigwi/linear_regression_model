@@ -22,7 +22,3 @@ The free Render service sleeps after 15 minutes, so the first request can take u
 
 (https://youtu.be/y4hUme_Wk8U)
 
-4. Start an Android emulator (or connect your phone) and check it appears with `flutter devices`.
-5. Run `flutter run`. The app already points to the Render API.
-6. Fill in all nine fields and tap **Predict** to see the expected passengers per year.
-7. If you leave a field empty, type text in a number field or enter a value out of range, the app shows an error message instead.
