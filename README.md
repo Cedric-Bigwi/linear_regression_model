@@ -20,7 +20,7 @@ The free Render service sleeps after 15 minutes, so the first request can take u
 
 ## YouTube video demo
 
-https://www.youtube.com/watch?v=REPLACE_WITH_YOUR_VIDEO_ID
+(https://youtu.be/y4hUme_Wk8U)
 
 ## Run the mobile app
 
