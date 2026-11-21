@@ -22,11 +22,6 @@ The free Render service sleeps after 15 minutes, so the first request can take u
 
 (https://youtu.be/y4hUme_Wk8U)
 
-## Run the mobile app
-
-1. Install Flutter (https://docs.flutter.dev/get-started/install) and Android Studio with an Android emulator, or use a phone with USB debugging.
-2. Clone this repository and open a terminal in `summative/FlutterApp`.
-3. Run `flutter doctor` to check your setup, then `flutter pub get`.
 4. Start an Android emulator (or connect your phone) and check it appears with `flutter devices`.
 5. Run `flutter run`. The app already points to the Render API.
 6. Fill in all nine fields and tap **Predict** to see the expected passengers per year.
